@@ -22,8 +22,7 @@ About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to being a Biom
 [![](https://visitcount.itsvg.in/api?id=mohanrajhere&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/u/ZVrdiPCthY/)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZVrdiPCthY?theme=dark&font=Noto%20Sans%20Bhaiksuki&ext=contest)
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohanrajhere-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
