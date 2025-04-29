@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to being a Biomedical Engineering Graduate<br>🔌Circuit Designer |🖥️ Passionate Full Stack Developer  | 🧩Creative Problem Solver | 🚀Lifelong Learner<br>🖌️I love turning ideas into beautiful interfaces<br>⚡Specializing in Java, HTML, CSS, JavaScript and Bootstrap CSS<br>🧠Leveling up my skills in React, Node.js and Circuit Designing<br>📚Forever a student of problem solving, design and web performance<br>✨Let's create something awesome together!<br><br>Gmail: mohanrajmohanraj4238@gmail.com<br> <br>
+About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to being a Biomedical Engineer Graduate<br>🔌Circuit Designer |🖥️ Passionate Full Stack Developer  | 🧩Creative Problem Solver | 🚀Lifelong Learner<br>🖌️I love turning ideas into beautiful interfaces<br>⚡Specializing in Java, HTML, CSS, JavaScript and Bootstrap CSS<br>🧠Leveling up my skills in React, Node.js and Circuit Designing<br>📚Forever a student of problem solving, design and web performance<br>✨Let's create something awesome together!<br><br>Gmail: mohanrajmohanraj4238@gmail.com<br> <br>
 
 
 ## 🌐 Socials:
@@ -13,15 +13,12 @@ About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to being a Biom
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanrajhere&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohanrajhere&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohanrajhere&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohanrajhere&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=mohanrajhere&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohanrajhere&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
