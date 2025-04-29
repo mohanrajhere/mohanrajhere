@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to be a Biomedical Engineer Graduate<br>🔌Circuit Designer |🖥️ Passionate Full Stack Developer  | 🧩Creative Problem Solver | 🚀Lifelong Learner<br>🖌️I love turning ideas into beautiful interfaces<br>⚡Specializing in Java, HTML, CSS, JavaScript and Bootstrap CSS<br>🧠Leveling up my skills in React, Node.js and Circuit Designing<br>📚Forever a student of problem solving, design and web performance<br>✨Let's create something awesome together!<br><br>Gmail: mohanrajmohanraj4238@gmail.com<br> <br>
+About Me:<br><br>🖐️Hello World! I'm MOHANRAJ S<br>👑Proud to being a Biomedical Engineering Graduate<br>🔌Circuit Designer |🖥️ Passionate Full Stack Developer  | 🧩Creative Problem Solver | 🚀Lifelong Learner<br>🖌️I love turning ideas into beautiful interfaces<br>⚡Specializing in Java, HTML, CSS, JavaScript and Bootstrap CSS<br>🧠Leveling up my skills in React, Node.js and Circuit Designing<br>📚Forever a student of problem solving, design and web performance<br>✨Let's create something awesome together!<br><br>Gmail: mohanrajmohanraj4238@gmail.com<br> <br>
 
 
 ## 🌐 Socials:
